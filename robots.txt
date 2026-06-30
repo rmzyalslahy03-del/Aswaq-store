@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /common.js
+Disallow: /service-worker.js
+Sitemap: /sitemap.xml
